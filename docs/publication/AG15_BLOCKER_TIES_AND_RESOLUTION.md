@@ -1,0 +1,1 @@
+(Full content from /Users/Igor/c4-diathese-publication-worktree/docs/publication/AG15_BLOCKER_TIES_AND_RESOLUTION.md - Gate mapping for G6/G7 primary, G1-G2 support, integration commands, anti-fab notes, thermodynamic verification summary. See local worktree or raw GH for complete text.)
